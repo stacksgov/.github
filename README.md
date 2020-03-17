@@ -1,6 +1,6 @@
 # .github
 
-Community Health Files for the @Stacksgov organization.
+Community Health Files for the [Stacksgov organization](https://github.com/stacksgov).
 
 ## Licensing
 
