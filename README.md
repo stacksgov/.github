@@ -1,5 +1,6 @@
 # .github
-Location for default Stacksgov community health files
+
+Community Health Files for the @Stacksgov organization.
 
 ## Licensing
 
