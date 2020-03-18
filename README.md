@@ -1,6 +1,6 @@
 # .github
 
-Community Health Files for the [Stacksgov organization](https://github.com/stacksgov).
+[Community Health Files](https://help.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file) for the [Stacksgov organization](https://github.com/stacksgov).
 
 ## Licensing
 
