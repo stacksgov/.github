@@ -14,13 +14,12 @@ Issues are generally related to an action, and are encouraged as a starting poin
 
 ## Submitting a Pull Request
 
-Pull requests are welcomed and encouraged, please follow the general procedure below.
+Pull requests are welcomed and encouraged! Please follow this general procedure:
 
-1. Fork and Clone the repository
-2. Create a new branch related to the PR
-`git checkout -b my-branch-name`
-3. Make changes and push to your fork
-4. Submit a pull request for review
+1. Fork/clone the repository
+1. Create a new branch related to the PR: `git checkout -b my-branch-name`
+1. Make changes and push to your fork
+1. Submit a pull request for review
 
 ## Resources
 
